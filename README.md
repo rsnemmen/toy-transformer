@@ -1,4 +1,6 @@
-Implementation of self-attention computations in preparation for the Anthropic research scientist interview on Nov 2024 (which I failed).
+Implementation of basic self-attention computations, in the form of Jupyter notebooks.
+
+🚧 Work in progress
 
 ```txt
 .
